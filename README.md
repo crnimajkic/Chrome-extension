@@ -1,6 +1,6 @@
-##Chrome-extension
+## Chrome-extension
 
-#This is my repository for Chrome Extension that I Made.There so many ways you can change it, and it use it for your liking.
+# This is my repository for Chrome Extension that I Made.There so many ways you can change it, and it use it for your liking.
 
 - You can change websites you want to use it on by implementig URL of wanted site in "content-scripts" object argument of the manifest.json, shown in the next picture.
 - Astrics that  you can see at (https://*.google.com/*) are used so you can implement the extension on other pages served on that server.
@@ -31,4 +31,4 @@ after it loades, turn on developer mode.
  
  You can se changes!
  
- ##Recreate, design and Enjoy!
+ ## Recreate, design and Enjoy!
